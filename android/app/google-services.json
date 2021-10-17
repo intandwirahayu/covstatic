@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720986405905",
+    "project_id": "covstatic-48e9b",
+    "storage_bucket": "covstatic-48e9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720986405905:android:43d5f11c486fec5f6c85b0",
+        "android_client_info": {
+          "package_name": "com.covstatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720986405905-54vd594fonf3jimi5hqm9kad021ktv1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzfcxBS7cuCX9dob3cLy1fywfV933m2uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720986405905-54vd594fonf3jimi5hqm9kad021ktv1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
