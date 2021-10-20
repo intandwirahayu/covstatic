@@ -19,6 +19,6 @@ Aplikasi ini digunakan untuk menampilkan data statistik COVID-19 di Indonesia, p
 ``covstatic\android\app\build\outputs\apk\release\app-release.apk``
 
 #### Tampilan Aplikasi
-
+![2](https://user-images.githubusercontent.com/68541473/138047659-6b346ce6-3f6f-4635-bc5d-3888978eb6d7.png)
 
 Detail tampilan aplikasi dapat dilihat pada link berikut [Covstatic](https://www.behance.net/gallery/129657715/Covstatic)
